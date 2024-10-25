@@ -7,6 +7,8 @@ function (Controller) {
     return Controller.extend("zgitconnect.controller.View1", {
         onInit: function () {
             alert('Hello');
+            // Doing the change from BAS and want to push it to GIT
+
         }
     });
 });
