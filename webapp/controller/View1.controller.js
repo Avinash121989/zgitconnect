@@ -6,7 +6,7 @@ function (Controller) {
 
     return Controller.extend("zgitconnect.controller.View1", {
         onInit: function () {
-
+            alert('Hello');
         }
     });
 });
