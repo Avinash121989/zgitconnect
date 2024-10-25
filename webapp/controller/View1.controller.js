@@ -8,6 +8,7 @@ function (Controller) {
         onInit: function () {
             alert('Hello');
             // Doing the change from BAS and want to push it to GIT
+            // Got my cloned project
 
         }
     });
